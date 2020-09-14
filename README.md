@@ -32,6 +32,10 @@
 
 This is amazing. Started as a small project just for myself, it now has > 9,000 lines of code, > 300 versions published, > 1 mio downloads per month, > 15 mio downloads overall. Thank you to all who contributed to this project!
 
+### deokwons9004dev's Changes
+
+- Removed "osx-temperature-sensor" module dependency from lib/cpu.js
+
 ## New Version 4.0
 
 This next major version release 4.0 comes with several optimizations and changes:
